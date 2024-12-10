@@ -12,3 +12,4 @@ PEDIDOS
 
 SALIR
 
+![image](https://github.com/user-attachments/assets/eeaddabc-0ed7-459e-a5bc-579ecda4faef)
